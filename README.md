@@ -1,27 +1,20 @@
-# 📁 Bienvenido/a al Curso de Organización de Archivos 🗂️  
+# ⚠️ ¡ATENCIÓN: Estás en la rama DEVELOP ⚠️
 
-¡Hola! 👋  
+Este repositorio se encuentra actualmente en la rama **`develop`**, que es una rama de **desarrollo activo**.  
 
-Este repositorio está diseñado para acompañarte en el curso de **Organización de Archivos**, donde aprenderás los fundamentos, técnicas y mejores prácticas para gestionar, estructurar y optimizar el almacenamiento y acceso a la información en sistemas computacionales.  
+## 📌 Importante  
+- **Esta versión puede contener cambios inestables**, errores o características no finalizadas.  
+- **No se recomienda su uso en entornos productivos**.  
+- El código aquí presente está sujeto a modificaciones frecuentes.  
 
-## 📌 Objetivos del Curso  
-- Comprender los principios de organización y almacenamiento de archivos.  
-- Aprender sobre estructuras de datos aplicadas a archivos (secuenciales, indexados, etc.).  
-- Implementar técnicas eficientes de acceso y recuperación de datos.  
-- Explorar algoritmos y métodos para la gestión de archivos.  
+## 🔄 Ramas Disponibles  
+| Rama       | Descripción                                  | Estabilidad     |
+|------------|--------------------------------------------|----------------|
+| `main`     | Versión estable y probada. ✅              | **Estable**    |
+| `develop`  | Versión en desarrollo (actual). 🚧        | **Inestable**  |
+| `feature/*`| Ramas de nuevas funcionalidades. 🔧        | **Experimental**|
 
-## 🛠️ Contenido del Repositorio  
-- 📂 **Material de Clase**: Presentaciones, apuntes y resúmenes teóricos.  
-- 💻 **Ejemplos de Código**: Implementaciones prácticas en el lenguaje de preferencia (C, Java, Python, etc.).  
-- 📝 **Ejercicios y Prácticas**: Actividades para reforzar el aprendizaje.  
-- 🔍 **Proyectos**: Casos de estudio y trabajos integradores.  
-
-## 📚 Recursos Adicionales  
-- Libros recomendados.  
-- Enlaces a artículos y tutoriales.  
-- Herramientas útiles para la gestión de archivos.  
-
-## 🚀 ¿Cómo Empezar?  
-1. Clona este repositorio:  
-   ```bash
-   git clone [URL_DEL_REPOSITORIO]
+## 📋 Recomendaciones  
+- Si buscas una versión estable, cambia a la rama `main`:  
+  ```bash
+  git checkout main
