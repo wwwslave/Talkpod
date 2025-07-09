@@ -1,1 +1,1 @@
-Este es el nuevo microfono para PoC
+Este es el nuevo microfono para PoC y es unicamente para bluetooth
